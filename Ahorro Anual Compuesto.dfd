@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+6
+ahorro
+1
+0
+4
+dias
+3
+365
+4
+1
+48
+'Programa que calcula el ahorro anual compuesto'
+8
+1
+1
+i
+1
+1
+1
+1
+4
+dias
+1
+1
+1
+6
+1
+6
+ahorro
+10
+ahorro + i
+4
+1
+49
+'En el dia ', i , ' tendrias ahorrado $ ', ahorro
+10
+1
